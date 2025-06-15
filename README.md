@@ -1,2 +1,2 @@
 # Funcional
-Repositório de projetos em Haskell
+Repositório de projetos feitos durante a disciplina de Programação Funcional em Haskell 
